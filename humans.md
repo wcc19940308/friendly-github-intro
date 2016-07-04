@@ -2,8 +2,10 @@
 
 ## Facilitators
 
-* Kirstie Whitaker
+* Kirstie Whitaker - twitter: [@kirstie_j](https://twitter.com/kirstie_j), github: [@KirstieJane](https://github.com/kirstiejane/), website: www.kirstiewhitaker.com
 * Mark Dunning
+* A. Pajon
+* Gordon Brown
 
 ## Mozilla Science Lab Fellows
 

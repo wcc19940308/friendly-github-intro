@@ -1,19 +1,13 @@
 # All the lovely people involved in making this happen
 
-## Mozilla Science Lab
+## Facilitators
+
+* Kirstie Whitaker
+* Mark Dunning
+
+## Mozilla Science Lab Fellows
+
+The workshop was originally developed by 
 
 * Joey Lee
 * Steph Wright
-
-## Facilitator 
-
-* [Matt Strimas-Mackay](http://strimas.com/)
-* [Will Hall](http://socialidentitylab.psych.ubc.ca/person/will-hall/)
-
-## UBC 
-
-* Kelly Schultz
-* Erin Fields
-* Susan Atkey
-* CTLT
-

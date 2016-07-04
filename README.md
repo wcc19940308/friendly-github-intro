@@ -1,7 +1,7 @@
 ❤️
 
 ***
-We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro) for the workshop here - Github Workshop, July 22nd, 2016.
+We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro) for the workshop on July 22nd, 2016.
 ***
 
 # Beginners guide to version control with git

@@ -10,7 +10,7 @@
 ## Participants on July 22nd 2016
 
 *
-* 
+*
 
 ## Mozilla Science Lab Fellows
 

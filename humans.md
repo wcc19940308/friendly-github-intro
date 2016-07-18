@@ -7,9 +7,14 @@
 * A. Pajon
 * Gordon Brown
 
+## Participants on July 22nd 2016
+
+*
+*
+
 ## Mozilla Science Lab Fellows
 
-The workshop was originally developed by 
+The workshop was originally developed by
 
 * Joey Lee
 * Steph Wright

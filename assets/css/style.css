@@ -53,6 +53,7 @@ li {
 ul,
 ol {
   margin: 0 0 30px 0;
+  margin-left : 30px;
 }
 ul li,
 ol li {

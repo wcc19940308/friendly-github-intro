@@ -1,83 +1,76 @@
 # Schedule
 
-Here's the roadmap for the workshop:
+Here's the roadmap for the workshop on 22nd July 2016
 
-**9:30 - 10:00: Registration**
+**13:30 - 13:50 Postit session**
 
-* Coffee, tea, and cookies - Thanks UBC Library!!!!
+* An interactive discussion on: 
+    * Why is version control useful?
+    * What do you do for version control at the moment?
+    * Why do you want to learn about git and GitHub?
 
-**10:00 - 10:15: Introductions**
+**13:50 - 14:00 Welcome, code of conduct and learning objectives**
 
-* About us
-* About Mozilla Science Lab
-* Say "hello" to your table group
-* Code of Conduct
+* Take a moment to read through the Mozilla Science Lab's [code of conduct](https://science.mozilla.org/code-of-conduct)
+* Resources
+  * [README](https://github.com/KirstieJane/friendly-github-intro/blob/master/README.md)
+  * [webpage](https://kirstiejane.github.io/friendly-github-intro)
+  * [etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro)
+* Learning objectives
+  * By the end of the course you should know:
+    * What is version control, and why is it crucial for research?
+    * Git and github; what is the difference?
+    * Why git is not just for programmers.
+  * And you should be able to:
+    * Create a git repository for your project.
+    * Collaborate and share your projects with others using GitHub.
+    * Work on your project locally and push changes to GitHub.
 
-**10:15 - 10:35: Github - What, Why, & Welcome**
+**14:00 - 14:15: Introduction to version control with git and github**
 
 * Presentation: [Github - What, Why, & Welcome](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)
+  * What is version control?
+  * Why should you care?
+  * Using git and GitHub
+  * Glossary
 
-**10:35 - 11:00: Getting Started With GitHub**
+**14:15 - 14:40: Exercise 1: Your first pull request**
 
-* Demo: [GitHub - Our First GitHub Project: Let’s get set up!](https://docs.google.com/presentation/d/1TkOLnznhfo_2sB4YnStyK8_Lo9WTgDt6xoRcMkyuJdY/edit?usp=sharing)
+* Add your github username to the [workshop repository](https://github.com/KirstieJane/friendly-github-intro)
+  * Instructions at [Exercise 1](LINK)
+  * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro)
 
-**11:00 - 12:00: Set Up Your First Project**
+**14:40 - 14:55: Setting up your first repository on GitHub**
 
-[Github Essentials Guide](http://joeyklee.github.io/friendly-github-intro/guides/github-essentials/)
+* Presentation: [Our First GitHub Project: Let’s get set up!](https://docs.google.com/presentation/d/1TkOLnznhfo_2sB4YnStyK8_Lo9WTgDt6xoRcMkyuJdY/edit?usp=sharing)
 
-* You will have an hour to play around in the GitHubverse - we will be around to help clarify and guide you through any questions you might have. 
-* To get a feeling for the workflow shown in the prior presentations, try to:
-	* Create a repo from scratch
-	* Make a README using markdown documenting what your project is about, who is involved, why it is interesting, how to get the project setup (e.g. what version of R, what packages are you using, links to references, and add a friendly gif, etc.) 
-	* Create some issues that need to be completed - add labels to them.
-	* Create a few commits
-	* Create a branch to experiment new features on:
-		* make a pull request to merge those changes into your "master" branch
-	* Revert a commit
-	* Celebrate! 
+**14:55 - 15:30: Exercise 2: Set up your project**
 
-**12:00 - 12:30: Lunch**
+* Add your github username to the [workshop repository](https://github.com/KirstieJane/friendly-github-intro)
+  * Instructions: [Exercise 2](http://kirstiejane.github.io/friendly-github-intro/guides/github-essentials/)
+  * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro)
+ 
+**15:30 - 15:45: Working locally using git**
 
-* Pizza and drinks will be served (there will be some veg/gluten free options in case there are food allergies) - Thanks UBC Library (again)!
+* Presentation: [The Github desktop application](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)
+    * Key point one
+    * Key point two
+    * Key point three
 
-**12:30 - 1:45: Collaborating on GitHub**
+**15:45 - 16:15: Exercise 3: Sync your GitHub repository to your laptop**
 
-* Presentation + Demo: [Collaborating with GitHub](https://docs.google.com/presentation/d/1v-gIFtZhyXEIfsUbizvGc_X8UqeQJ8IlBtdRYeDnkbA/edit?usp=sharing)
+* Sync your repo to your laptop then push a commit
+  * Instructions at [Exercise 3](LINK)
+  * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro)
 
-[GitHub Collaboration Workflow](http://joeyklee.github.io/friendly-github-intro/guides/github-collaboration-party/)
-* Group Exercise: Let's Plan a Party
-	* As a group we will work to plan a party - each table will be tasked with developing one of the details of the party (e.g. food, invitations, venue, etc) 
+**16:15 - 16:30: More things you can do with GitHub**
 
-**1:45 - 2:00: Share results / Feedback**
+* Presentation: [More things you can do with GitHub](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)
+    * Host a project website
+    * Collaborating with open source projects
+    * Lead your own open source project
+ 
+**16:30 - 17:30: Freetime to play & ask questions**
 
-* Share the results of the party planning
-* Share feedback on challenges, solutions, and recommendations
-
-**2:00 - 2:15: Break Time**
-
-* [Open Source Stretch](https://github.com/mozillascience/working-open-workshop/issues/42)
-* Cookies, coffee, and tea break - Thanks UBC Library!  Our fueling heroes of the day!
-
-
-**2:15 - 2:45: Essential Pieces of a Repo**
-
-* Why we need:
-	* README
-	* CONTRIBUTING
-	* CODE OF CONDUCT
-	* LICENSE
-
-* On open access, open science, and open education ...
-
-**2:45 - 3:15: Next Steps / Taking it further** 
-
-<!--* Github Pages (gh-pages)-->
-<!--* Post-assessment -->
-<!--* Finding community -->
-* TBD
-
-**3:15 - 3:30: Close**
-
-* Wrapping up last questions, feedback, etc. 
-
-
+* Ask us questions, add more commits, set up a website. Whatever works for you.
+* Complete the post workshop survey. 

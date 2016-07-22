@@ -42,11 +42,11 @@ Here's the roadmap for the workshop on 22nd July 2016
 
 **14:30 - 14:45: break**
 
-**14:45 - 15:00: Working collaboratively with github**
+**14:45 - 15:00: Working collaboratively with GitHub**
 * Presentation: [Working collaboratively with github](https://docs.google.com/presentation/d/1VasZl8YsYMfhi1zYaYZ-kWykjp4T-ZqE5YrOImsC_Kg/edit?usp=sharing)
-  * Key point one
-  * Key point two
-  * Key point three
+  * Collaborators
+  * Fork
+  * Pull request
 
 **15:00 - 15:15: Exercise 2: Your first pull request**
 
@@ -57,9 +57,9 @@ Here's the roadmap for the workshop on 22nd July 2016
 **15:15 - 15:30: Working locally using git**
 
 * Presentation: [Github desktop essentials](https://docs.google.com/presentation/d/1Lqe9GoVLcb3se0Szmybkgi8XOAjKBepPPatANPzFvlY/edit?usp=sharing)
-    * Key point one
-    * Key point two
-    * Key point three
+    * Edit using local tools
+    * Push to "the cloud"
+    * Revert to a previous version
 
 **15:30 - 16:00: Exercise 3: Sync your GitHub repository to your laptop**
 
@@ -69,10 +69,9 @@ Here's the roadmap for the workshop on 22nd July 2016
 
 **16:15 - 16:30: More things you can do with GitHub**
 
-* Presentation: [More things you can do with GitHub](LINK)
-    * Host a project website
-    * Collaborating with open source projects
+* Presentation: [More things you can do with GitHub](https://docs.google.com/presentation/d/1ck0ZPHydsTkTjn_nhaqAiXiM1_uqcIV2i9u5wzfYEWw/edit?usp=sharing)
     * Lead your own open source project
+    * Host a project website
 
 **16:30 - 17:30: Freetime to play & ask questions**
 

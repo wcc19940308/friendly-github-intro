@@ -4,7 +4,7 @@
 
 * Kirstie Whitaker - github: [@KirstieJane](https://github.com/kirstiejane/), twitter: [@kirstie_j](https://twitter.com/kirstie_j), website: www.kirstiewhitaker.com
 * Mark Dunning - github: [@markdunning](https://github.com/markdunning), twitter: [@DrMarkDunning](https://twitter.com/DrMarkDunning)
-* Anne Pajon
+* Anne Pajon - github: [@pajanne](https://github.com/pajanne)
 * Gordon Brown
 
 ## Participants on July 22nd 2016

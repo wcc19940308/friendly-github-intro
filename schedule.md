@@ -5,9 +5,8 @@ Here's the roadmap for the workshop on 2nd November 2016
 **13:30 - 13:45 Postit session**
 
 * An interactive discussion on:
-    * Why is version control useful?
     * What do you do for version control at the moment?
-    * Why do you want to learn about git and GitHub?
+    * What do you want to learn about git and GitHub?
 
 **13:45 - 13:50 Welcome, code of conduct and learning objectives**
 
@@ -65,7 +64,7 @@ Here's the roadmap for the workshop on 2nd November 2016
 
 * Sync your repo to your laptop then push a commit
   * Instructions at [Exercise 3: Working locally](https://kirstiejane.github.io/friendly-github-intro/exercises/working-locally/)
-  * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro)
+  * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro)
 
 **16:15 - 16:30: More things you can do with GitHub**
 

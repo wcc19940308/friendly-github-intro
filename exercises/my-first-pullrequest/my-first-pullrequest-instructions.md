@@ -6,15 +6,19 @@ This exercise walks you through adding your very first contribution to an open s
 
 ## The Brief
 
-We want to know who's taking part in the workshop, so please add your name to the humans.md file in the friendly-github-intro workshop repository.
+You're going to add a sentence to a file in your partner's repository. It doesn't matter what you say! You can add anything you want.
 
-You'll have to **fork the repo**, make a change to the [humans.md](https://github.com/KirstieJane/friendly-github-intro/blob/gh-pages/humans.md) file and **commit** it to your fork, and then make a **pull request** to ask the workshop facilitator to merge the edit.
+You'll have to **fork the repo**, **make a change** to a file (probably the README file), **commit** the change to your fork, and then make a **pull request** to ask your partner to merge the edit.
+
+Then **switch roles** and repeat! The contributor becomes the project owner and vice versa.
 
 # My first pull request: Step by step
 
   1. Find the repo
 
-      Follow this link: https://github.com/KirstieJane/friendly-github-intro
+  In the screenshots we're going to follow Kirstie's Secret account making changes to the [friendly-github-intro]((https://github.com/KirstieJane/friendly-github-intro)) repository.
+
+  When you work with your partner, you should to go to your partner's repository link and edit one of the files there (probably the README.md file).
 
       <img src="../../assets/images-slides/my-first-pr-find-repo.png" width="80%"/>
 
@@ -34,9 +38,11 @@ You'll have to **fork the repo**, make a change to the [humans.md](https://githu
 
     <img src="../../assets/images-slides/my-first-pr-fork2.png" width="80%" />
 
-  4. Find & open the [humans.md](https://github.com/KirstieJane/friendly-github-intro/blob/gh-pages/humans.md)  file
+  4. Find & open the file you want to edit
 
-    You're going to add your name to the [humans.md](https://github.com/KirstieJane/friendly-github-intro/blob/gh-pages/humans.md)  file that lists all the contributors to this project.
+     In the example below, Kirstie (Secret) is going to add her name to the humans.md file.
+
+     You should make whatever change you want in your fork of your partner's repository.
 
     <img src="../../assets/images-slides/my-first-pr-humans1.png" width="80%" />
 
@@ -50,7 +56,7 @@ You'll have to **fork the repo**, make a change to the [humans.md](https://githu
 
   5. Make a change & save the commit
 
-     Change some of the information for one of the test participants to your own details. You might find this [handy markdown guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) helpful.
+     Change some of the information in the file. You might find this [handy markdown guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) helpful.
 
      <img src="../../assets/images-slides/my-first-pr-humans-edit.gif" width="80%" />
 

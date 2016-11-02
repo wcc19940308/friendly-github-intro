@@ -1,6 +1,7 @@
 ❤️
 
 ***
+We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro) for the workshop on November 2nd, 2016.
 We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro) for the workshop on July 22nd, 2016.
 ***
 
@@ -23,7 +24,7 @@ At the end of the workshop, we hope you will feel acquainted and/or comfortable 
 
 * Github as:
 	* Social platform - collaboration, coordination, and contributing
-	* Time machine - track project and go back	
+	* Time machine - track project and go back
 	* Documentation & sharing platform
 	* Project development platform
 * Basic Github Workflows:
@@ -32,9 +33,9 @@ At the end of the workshop, we hope you will feel acquainted and/or comfortable 
 
 ## Why are we teaching GitHub?
 
-Git/GitHub can enable projects of any size (from individuals up to organizations and companies) to develop in a way that is well managed, readable, and many cases, accessible and open source. GitHub is allowing professors to share their course materials online, scientists to share their analyses and data, startups to build new technologies, and governments to share data - it is enhancing our ability to do work, better. 
+Git/GitHub can enable projects of any size (from individuals up to organizations and companies) to develop in a way that is well managed, readable, and many cases, accessible and open source. GitHub is allowing professors to share their course materials online, scientists to share their analyses and data, startups to build new technologies, and governments to share data - it is enhancing our ability to do work, better.
 
-At the Mozilla Science Lab, we use GitHub as a platform to share knowledge, build communities, and make science as open and accessible as possible. We hope you will use GitHub as well to make better projects. 
+At the Mozilla Science Lab, we use GitHub as a platform to share knowledge, build communities, and make science as open and accessible as possible. We hope you will use GitHub as well to make better projects.
 
 ### What is "open" research?
 
@@ -44,4 +45,3 @@ Whether you're studying the human genome, black holes, deep sea ecology, medieva
 At [Mozilla Science Lab](https://mozillascience.org/) we help scientists and researchers (anyone from students to established researchers to citizen scientists) to work openly and do better research, more research, and make that research more useful by sharing it widely.  
 
 We provide various types of trainings (such as this Workshop), learning materials and formats (such as [Mozilla Study Groups](http://mozillascience.github.io/studyGroupHandbook/)), platforms for sharing and showcasing open Science projects (such as [MSL Collaborate](https://mozillascience.org/collaborate)), and support for leaders in open science (through the [Mozilla Fellows for Science](https://mozillascience.org/fellows).
-

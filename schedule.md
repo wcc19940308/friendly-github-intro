@@ -25,7 +25,7 @@ Here's the roadmap for the workshop on 22nd July 2016
 * Resources
       * [README](https://github.com/KirstieJane/friendly-github-intro/blob/master/README.md)
       * [webpage](https://kirstiejane.github.io/friendly-github-intro)
-      * [etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro)
+      * [etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro)
 
 **13:50 - 14:00: Introduction to version control with git and github**
 
@@ -38,7 +38,7 @@ Here's the roadmap for the workshop on 22nd July 2016
 
 * Create your first repository in GitHub
     * Instructions: [Exercise 1: My first repo](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-repo/)
-    * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro)
+    * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro)
 
 **14:30 - 14:45: break**
 

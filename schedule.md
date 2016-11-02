@@ -23,7 +23,7 @@ Here's the roadmap for the workshop on 2nd November 2016
     * Collaborate and share your projects with others using GitHub.
     * Work on your project locally and push changes to GitHub.
 * Resources
-      * [README](https://github.com/KirstieJane/friendly-github-intro/blob/master/README.md)
+      * [README](https://github.com/KirstieJane/friendly-github-intro/blob/gh-pages/README.md)
       * [webpage](https://kirstiejane.github.io/friendly-github-intro)
       * [etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro)
 

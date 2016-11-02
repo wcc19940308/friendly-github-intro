@@ -8,7 +8,7 @@ This exercise walks you through adding your very first contribution to an open s
 
 We want to know who's taking part in the workshop, so please add your name to the humans.md file in the friendly-github-intro workshop repository.
 
-You'll have to **fork the repo**, make a change to the [humans.md](https://github.com/KirstieJane/friendly-github-intro/blob/master/humans.md) file and **commit** it to your fork, and then make a **pull request** to ask the workshop facilitator to merge the edit.
+You'll have to **fork the repo**, make a change to the [humans.md](https://github.com/KirstieJane/friendly-github-intro/blob/gh-pages/humans.md) file and **commit** it to your fork, and then make a **pull request** to ask the workshop facilitator to merge the edit.
 
 # My first pull request: Step by step
 
@@ -34,9 +34,9 @@ You'll have to **fork the repo**, make a change to the [humans.md](https://githu
 
     <img src="../../assets/images-slides/my-first-pr-fork2.png" width="80%" />
 
-  4. Find & open the [humans.md](https://github.com/KirstieJane/friendly-github-intro/blob/master/humans.md)  file
+  4. Find & open the [humans.md](https://github.com/KirstieJane/friendly-github-intro/blob/gh-pages/humans.md)  file
 
-    You're going to add your name to the [humans.md](https://github.com/KirstieJane/friendly-github-intro/blob/master/humans.md)  file that lists all the contributors to this project.
+    You're going to add your name to the [humans.md](https://github.com/KirstieJane/friendly-github-intro/blob/gh-pages/humans.md)  file that lists all the contributors to this project.
 
     <img src="../../assets/images-slides/my-first-pr-humans1.png" width="80%" />
 

@@ -50,9 +50,9 @@ Here's the roadmap for the workshop on 2nd November 2016
 
 **15:00 - 15:15: Exercise 2: Your first pull request**
 
-* Add your github username to the [workshop repository](https://github.com/KirstieJane/friendly-github-intro)
+* Work in pairs to submit your first pull request to your partner's repository (and then switch places and merge your partners request!)
   * Instructions: [Exercise 2: My first pull request](https://kirstiejane.github.io/friendly-github-intro/exercises/my-first-pullrequest/)
-  * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro)
+  * Ask as many questions as you need! Either in person or on the [etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro)
 
 **15:15 - 15:30: Working locally using git**
 

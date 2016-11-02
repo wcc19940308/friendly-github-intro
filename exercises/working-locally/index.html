@@ -61,7 +61,7 @@
                 <ul>
                     <li>An Internet connection to access the GitHub site</li>
                     <li>A GitHub account</li>
-                    <li>A Windows or Mac computerthat you can add files to</li>
+                    <li>A Windows or Mac computer that you can add files to</li>
                 </ul>
             </section>
         </section>
@@ -70,24 +70,14 @@
           GitHub is a web-based interface for version control, a way of keeping track of changes made to a collection of working documents. GitHub provides a structure and space for communicating about collaborative work on open projects.
         </p>
         <p>
-          This exercise walks you through adding a local project from your own computer to GitHub using the <a href=http://desktop.github.com>GitHub Desktop application</a>. You'll learn how to make changes to your files locally and <strong>push</strong> those changes back to GitHub. You'll also <strong>revert</strong> a commit so you know how to roll back a change you want to undo.
-        </p>
-        <p>
-          If you'd rather use one of these <strong>example repositories</strong> you're very welcome to. Just click on the link below and save the files to your computer.
-          <ul>
-              <li><a href="https://www.dropbox.com/s/1xtfj3sbyzkmjge/chocolate-chip-cookies.zip?dl=1" target="blank">Chocolate Chip Cookie Recipe: markdown</a></li>
-              <li><a href="https://www.dropbox.com/s/wcy6w7nptkjdyz1/interactive-r-map.zip?dl=1" target="blank">Interactive R map: R code</a></li>
-              <li><a href="https://www.dropbox.com/s/u2gglh48mq6pakq/portfolio-template.zip?dl=1" target="blank">Web Portfolio Template: html/css</a></li>
-              <li><a href="https://www.dropbox.com/s/l124lqi40oqdg8m/writing-sample.zip?dl=1">Writing Sample - UBC Dissertation: Microsoft Word</a></li>
-          </ul>
+          This exercise walks you through syncing your project on github to your own computer to GitHub using the <a href=http://desktop.github.com>GitHub Desktop application</a>. You'll learn how to make changes to your files locally and <strong>push</strong> those changes back to GitHub. You'll also <strong>revert</strong> a commit so you know how to roll back a change you want to undo.
         </p>
 
         <h3>The Brief</h3>
 
         <p>
-          Add a new project from your own computer to GitHub. Edit one of the files, or a add a new one, and <strong>commit</strong> your change. <strong>Push</strong> that change to GitHub. Finally, try to undo that change to <strong>revert</strong> to a previous version of the repository.
+          <strong>Clone</strong> your repository to your own computer. Edit one of the files, or a add a new one, and <strong>commit</strong> your change. <strong>Push</strong> that change to GitHub. Make another change (or two or three), commit them all, and then try to undo that change to <strong>revert</strong> to a previous version of the repository.
         </p>
-        <!-- <img src="../../handouts/img/repo-learning.png"></img> -->
 
         <h2 id="step-by-step">Working Locally: Step by step</h2>
         <ol class="steps">
@@ -95,9 +85,8 @@
             <li>
                 <h1>Sign in and install</h1>
                 <p>
-                    Sign into your GitHub account online and install the Github Desktop app.
+                    Sign into your GitHub account online and <a href="http://desktop.github.com/" target="blank">install</a> the Github Desktop app.
                 </p>
-                <a href="http://desktop.github.com/" target="blank">Install</a>
                 <img src="../../assets/images-slides/install.png">
             </li>
             <!-- Step 1 -->
@@ -106,37 +95,34 @@
                 <p>
                     Open up GitHub Desktop on your computer.
                 </p>
+                <h3>Windows</h3>.
+                <img src="../../assets/images-slides/working-locally-clone-0.png">
+                <h3>Mac</h3>.
                 <img src="../../assets/images-slides/github-desktop-ui.png">
             </li>
+            <!-- Step 2 -->
             <li>
-                <h1>Select a project</h1>
-                <p>
-                   If you have a project you want to put on GitHub, that's great! You're also welcome to use the repository you created earlier in this session.
-
-                   If you'd rather work on a more developed project, you can use some projects we've prepared for you (see: <a href="https://www.dropbox.com/s/1xtfj3sbyzkmjge/chocolate-chip-cookies.zip?dl=1" target="blank">Chocolate Chip Cookie Recipe</a>, <a href="https://www.dropbox.com/s/wcy6w7nptkjdyz1/interactive-r-map.zip?dl=1" target="blank">Interactive R map</a>, <a href="https://www.dropbox.com/s/u2gglh48mq6pakq/portfolio-template.zip?dl=1" target="blank">Web Portfolio Template</a>, <a href="https://www.dropbox.com/s/l124lqi40oqdg8m/writing-sample.zip?dl=1">Writing Sample - UBC Dissertation</a>.)
-                </p>
+                <h1>Clone your repository from GitHub</h1>
+                <h3><b>First: Click the "+" button</b></h3>
+                <img src="../../assets/images-slides/working-locally-clone-1.png">
+                <h3><b>Second: Click the "clone" button</b></h3>
+                <img src="../../assets/images-slides/working-locally-clone-2.png">
+                <h3><b>Third: Choose the repository you want to bring to your laptop</b></h3>
+                <img src="../../assets/images-slides/working-locally-clone-3.png">
+                <h3><b>Fourth: Chose where you want to save your repository on your computer</b></h3>
+                <img src="../../assets/images-slides/working-locally-clone-4.png">
+                <h3><b>After a couple of minutes downloading, you're done!</b></h3>
+                <img src="../../assets/images-slides/working-locally-clone-5.png">
+                <img src="../../assets/images-slides/working-locally-clone-6.png">
+                <h3><b>You can navigate to explorer or finder to see your files and make changes</b></h3>
+                <img src="../../assets/images-slides/working-locally-clone-7.png">
             </li>
             <li>
-                <h1>Add your project to GitHub</h1>
-                <h3><b>First: Click the "+" button</b></h3>
-                <img src="../../assets/images-slides/github-desktop-ui-add.png">
-                <h3><b>Second: Click the "add" button</b></h3>
-                <img src="../../assets/images-slides/github-desktop-ui-add-1.png">
-                <h3><b>Third: Navigate to where your project lives</b></h3>
-                <img src="../../assets/images-slides/github-desktop-ui-add-2.png">
-                <h3><b>Fourth: Create and add repository</b></h3>
-                <img src="../../assets/images-slides/github-desktop-ui-add-3.png">
-                <p><b>Fifth: Commit and Publish</b> Now that you've created a git repository from your folder, you can now commit each of your files.</h3>
-                <h3>You can either commit all of the files at once and in the commit message say:
-                <code><pre>
-Initial Commit
-                </pre></code>
-                <br>
-                or you can individually commit each file by selecting each file by the check boxes and writing a separate commit message for each file.
-                </p>
+                <h1>Commit and publish a change</h1>
+                <p>Now that you've created a git repository from your folder, you can now make a change to a file, or add a new one.<p>
 
-                <p>here is a video showing this process</p>
-                <iframe width="720" height="600" src="https://www.youtube.com/embed/u0M0HYJNvmE" frameborder="0" allowfullscreen></iframe>
+                <p>When you commit a file, try to <strong>make the message something helpful</strong>. You're trying to help you of 6 months from now understand what you were thinking!
+                </p>
             </li>
             <li>
                 <h1>Create a branch, make changes, merge them in</h1>
@@ -150,9 +136,9 @@ Initial Commit
                 <p>After making the changes, we decide that the master branch needs to have this same title, SO, we:
                  </p>
                  <ul>
-                    <li>- toggle back to the master branch</li>
-                    <li>- click the "compare" button and select the "new-title" branch.</li>
-                    <li>- "update from 'new-title' " which merges those changes in.</li>
+                    <li>toggle back to the master branch</li>
+                    <li>click the "compare" button and select the "new-title" branch.</li>
+                    <li>"update from 'new-title' " which merges those changes in.</li>
                 </ul>
                 <p>Last, we check the file to see if the changes have been merged from the "new-title" branch to the "master" branch.</p>
 
@@ -173,8 +159,14 @@ Initial Commit
                 <img src="../../assets/images-slides/revert-2.png">
             </li>
           </ol>
-        <center><h3>Congratulations!<br>You now know the essentials of working with GitHub Online and Locally with Github Desktop!!</h3></center>
+          <p>
+            <strong>CONGRATULATIONS!</strong> You now know the essentials of working with GitHub Online and Locally with Github Desktop!
+          </p>
+
         <h2 id="resources">Command Line Resources</h2>
+        <p>
+          You may find that working with the command line is easier (if you're confident with using the command line for example.) We've included some resources here to help you get started.
+        </p>
         <section class="resources">
             <section class="resource">
                 <h4>Cloning a repository using the command line</h4>
@@ -188,6 +180,11 @@ Initial Commit
                 <h4>Add an existing project to github using the command line</h4>
                 <a href="#">https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/</a>
             </section>
+            <section class="resource">
+                <h4>Video showing how to add a new repository from your laptop</h4>
+                <a href="#">https://www.youtube.com/embed/u0M0HYJNvmE</a>
+            </section>
+
         </section>
         <h2 id="glossary">Glossary</h2>
         <section class="glossary">

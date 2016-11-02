@@ -76,4 +76,4 @@ Here's the roadmap for the workshop on 2nd November 2016
 **16:30 - 17:30: Freetime to play & ask questions**
 
 * Ask us questions, add more commits, set up a website. Whatever works for you.
-* Complete the post workshop survey.
+* Complete the [post workshop survey](https://www.surveymonkey.co.uk/r/75QSRSK).

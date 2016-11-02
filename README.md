@@ -2,7 +2,6 @@
 
 ***
 We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2016-11-02-friendly-github-intro) for the workshop on November 2nd, 2016.
-We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2016-07-22-friendly-github-intro) for the workshop on July 22nd, 2016.
 ***
 
 # Beginners guide to version control with git
@@ -12,7 +11,7 @@ This is a beginner friendly introduction to making open, version-controlled, and
 
 **Description**: Version control is the management of changes to documents, computer programs, and other collections of information. Changes are usually identified by a number named the "revision number". Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
 
-Github is a free and open source platform that can help you build projects that are collaborative, well documented, and version-controlled. In this workshop we will introduce you to the GitHub ecosystem and help you get you comfortable navigating basic GitHub workflows. We will make sure that you leave the workshop aware of the best practices for developing projects on GitHub (e.g. writing a good “readme” or posting and labeling issues) and an understanding of how GitHub can help make your projects more readable and accessible.
+Github is a free and open source platform that can help you build projects that are collaborative, well documented, and version-controlled. In this workshop we will introduce you to the GitHub ecosystem and help you get you comfortable navigating basic GitHub workflows. We will make sure that you leave the workshop aware of the best practices for developing projects on GitHub (e.g. writing a good “readme” or posting and labelling issues) and an understanding of how GitHub can help make your projects more readable and accessible.
 
 This workshop is developed for anyone looking for a solution to making projects – whether it be your research on arctic glaciers, the materials for an undergraduate course, your PHD thesis, or even a cookbook – more manageable. You don't have to share your work with others or collaborate with anyone, although you'll learn how this can be achieved with ease.
 

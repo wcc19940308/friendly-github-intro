@@ -1,6 +1,6 @@
 # Schedule
 
-Here's the roadmap for the workshop on 2nd November 2016
+Here's the roadmap for the workshop on 13th January 2017
 
 **13:30 - 13:45 Postit session**
 

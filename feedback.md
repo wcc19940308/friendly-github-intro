@@ -1,3 +1,22 @@
+# Feedback from the workshop on Nov 2nd, 2016
+
+## Questions/feedback from the workshop
+
+- Three different ways to merge a pull request online: [merge, squash and rebase](http://stackoverflow.com/questions/2427238/in-git-what-is-the-difference-between-merge-squash-and-rebase)
+- [Pull request on command line](http://stackoverflow.com/questions/4037928/can-you-issue-pull-requests-from-the-command-line-on-github)
+- Add git pull from command line slide
+- Text editor: add info and link to Atom, otherwise the default editor on mac is TextEdit
+- Clarify where are the uncommitted changes in GitHub Desktop
+- Explain the differences between subversion and GitHub, when you commit with GitHub you’re not done, you still have to push!
+- GitHub Desktop is confusing, will be better to use the command line…
+- Have drawing/pictures of each workflow for the exercises
+- Make clear when opening the project folder, it opens it with the branch showed in the GitHub Desktop!
+- Command line to check which branch you are on: git branch
+- Revert vs reset? What is the difference.
+- Git flow: https://guides.github.com/introduction/flow/
+- Talk about private repositories
+
+
 # Feedback from the workshop on July 22nd, 2016
 
 ## Questions/feedback from the workshop

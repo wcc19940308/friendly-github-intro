@@ -1,7 +1,7 @@
 ❤️
 
 ***
-We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2017-01-13-friendly-github-intro) for the workshop on January 13th, 2017.
+We have a living [Etherpad](https://etherpad.net/p/2018-07-06-friendly-github-intro) for the workshop for Turing Interns on 6 July, 2018.
 ***
 
 # Beginners guide to version control with git
